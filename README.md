@@ -5,30 +5,31 @@
 - Babel
 - Webpack
 ## Setting Up
-- **NodeJS**
+**NodeJS**
+
 => brew install node
 
-- **Initialize Package**
+**Initialize Package**
 
 => npm init 
 
-- **React & React-DOM**
+**React & React-DOM**
 
 => npm install react react-dom --save
 
-- **babel-core**: core library
+**babel-core**: core library
 
 => npm install babel-core --save-dev
 
-- **babel-loader**: 
+**babel-loader**: 
 
 => npm install babel-loader --save-dev
 
-- **babel-preset-es2015**: transpile es6 into Javascript
+**babel-preset-es2015**: transpile es6 into Javascript
 
 => npm install babel-preset-es2015 --save-dev
 
-- **babel-preset-react**: transpiles react code and jsx insto javascript
+**babel-preset-react**: transpiles react code and jsx insto javascript
 
 => npm install babel-preset-react --save-dev
 
