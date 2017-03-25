@@ -33,7 +33,7 @@
 
 => `npm install babel-preset-react --save-dev`
 
-**webpack & webpack-dev-server**
+> **webpack & webpack-dev-server**
 
 => `npm install webpack webpack-dev-server --save-dev`
 
