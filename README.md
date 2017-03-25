@@ -1,10 +1,9 @@
 # Random Quote Machine
 ## Application Stack
+- React
+- ES6
+- Babel
+- Webpack
 ## Setting Up
 **NodeJS**
-<ul>
-    <li>React</li>
-    <li>ES6</li>
-    <li>Babel</li>
-    <li>Webpack</li>
-</ul>
+
