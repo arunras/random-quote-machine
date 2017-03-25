@@ -8,3 +8,6 @@
 - **NodeJS**
 => brew install node
 
+- **Initialize Package**
+=> npm init 
+
