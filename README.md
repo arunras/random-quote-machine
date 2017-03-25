@@ -6,4 +6,5 @@
 - Webpack
 ## Setting Up
 - **NodeJS**
+=> brew install node
 
