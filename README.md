@@ -11,25 +11,25 @@
 
 **Initialize Package**
 
-=> npm init 
+=> `npm init`
 
 **React & React-DOM**
 
-=> npm install react react-dom --save
+=> `npm install react react-dom --save`
 
 **babel-core**: core library
 
-=> npm install babel-core --save-dev
+=> `npm install babel-core --save-dev`
 
 **babel-loader**: 
 
-=> npm install babel-loader --save-dev
+=> `npm install babel-loader --save-dev`
 
 **babel-preset-es2015**: transpile es6 into Javascript
 
-=> npm install babel-preset-es2015 --save-dev
+=> `npm install babel-preset-es2015 --save-dev`
 
 **babel-preset-react**: transpiles react code and jsx insto javascript
 
-=> npm install babel-preset-react --save-dev
+=> `npm install babel-preset-react --save-dev`
 
