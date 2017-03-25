@@ -1,5 +1,5 @@
-#Random Quote Machine
-#Application Stack
+# Random Quote Machine
+# Application Stack
 <ul>
     <li>React</li>
     <li>ES6</li>
