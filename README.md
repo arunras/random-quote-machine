@@ -7,7 +7,7 @@
 ## Setting Up
 **NodeJS**
 
-=> brew install node
+=> `brew install node`
 
 **Initialize Package**
 
