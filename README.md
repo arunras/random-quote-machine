@@ -5,5 +5,5 @@
 - Babel
 - Webpack
 ## Setting Up
-**NodeJS**
+- **NodeJS**
 
