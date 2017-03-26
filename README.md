@@ -2,6 +2,7 @@
 ## Application Stack
 - React
 - ES6
+- SASS
 - Babel
 - Webpack
 ## Setting Up
@@ -33,7 +34,12 @@
 
 => `npm install babel-preset-react --save-dev`
 
-> **webpack & webpack-dev-server**
+**webpack & webpack-dev-server**
 
 => `npm install webpack webpack-dev-server --save-dev`
 
+**node-sass & sass-load**: tranform sass to css
+
+=> `npm install node-sass sass-loader --save-dev
+
+##webpack.config.js
