@@ -9,7 +9,7 @@
 **NodeJS**
 
 ```terminal
-=> `brew install node`
+$ brew install node
 ```
 
 **Initialize Package**
