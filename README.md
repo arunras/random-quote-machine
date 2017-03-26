@@ -8,7 +8,9 @@
 ## Setting Up
 **NodeJS**
 
+```terminal
 => `brew install node`
+```
 
 **Initialize Package**
 
