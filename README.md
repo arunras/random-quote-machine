@@ -42,4 +42,4 @@
 
 => `npm install node-sass sass-loader --save-dev
 
-##webpack.config.js
+## webpack.config.js
