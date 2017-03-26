@@ -7,7 +7,7 @@
 - Webpack
 ## Setting Up
 **NodeJS**
-```terminal
+```bash
 $ brew install node
 ```
 
