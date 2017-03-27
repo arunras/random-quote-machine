@@ -5,6 +5,7 @@
 - SASS
 - Babel
 - Webpack
+- jQuery
 ## Setting Up
 **NodeJS**
 ```bash
@@ -58,5 +59,10 @@ $ npm install webpack webpack-dev-server --save-dev
 ```bash
 $ npm install node-sass sass-loader --save-dev
 ```
+**jquery**
+```bash
+$ npm install jquery --save
+```
+
 
 ## webpack.config.js
