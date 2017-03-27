@@ -1,11 +1,13 @@
 # Random Quote Machine
 ## Application Stack
-- React
-- ES6
-- SASS
-- Babel
-- Webpack
-- jQuery
+- React: to compose simple powerful UIs.
+- ES6: to write real javascrip classs. The next version of JavaScript.
+- JSX: to place HTML in JavaScript without concatenating strings.
+- Babel: to transpile ES6 and JSX into JavaScript.
+- SASS: to use things like variables, nested rules, inline imports and more.
+- Webpack: to pack all of JavaScript files into one bundle.
+- Bootstrap: to make things pretty.
+- jQuery: to use Ajax to fetch data by using api.
 ## Setting Up
 **NodeJS**
 ```bash
