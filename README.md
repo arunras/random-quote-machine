@@ -1,7 +1,6 @@
 # Random Quote Machine
 > App that generates random quote.
 > It's built base on ReactJS and use Query the API to get quotes.
-
 > [**Demo**](https://arunras.github.io/random-quote-machine/)
 ## Application Stack
 - **React**: to compose simple powerful UIs.
