@@ -19,11 +19,13 @@ $.ajax( {
         $('#quote-title').text(quote.title);
         $('#quote-content').html(quote.content);
         $('#tweet-button').html(
-            '<a target="_blank" href="https://twitter.com/intent/tweet?hashtags=quotes&related=design&text=' + quote.content + '" >Tweet</a>'
+            '<a target="_blank" href="https://twitter.com/intent/tweet?hashtags=quotes&related=design&text=' + quote.content + ' — ' + quote.title + '" >Tweet</a>'
         );
+        /*
         $('#facebook-button').html(
             '<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=' + quote.content + '" >Share</a>'
         );
+        */
 
         newQuote['content'] = quote.content;
         newQuote['title'] = quote.title;
@@ -66,7 +68,6 @@ class QuoteComponent extends React.Component{
                 <span id="quote-title" className="card-text">{this.state.title}</span>
                 <div className="d-flex justify-content-start mt-3">
                     <button id="tweet-button" className="btn btn-link"></button>
-                    <button id="facebook-button" className="btn btn-link"></button>
                     <button id="new-quote-button" onClick={fetchQuotes} className="btn btn-primary ml-auto">New Quote</button>
                 </div>
             </div>
