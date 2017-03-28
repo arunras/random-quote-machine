@@ -27,47 +27,53 @@ $ npm init
 **React & React-DOM**
 
 ```bash
-$ npm install react react-dom --save
+$ npm install --save react react-dom
+```
+
+**React-Bootstrap**
+
+```bash
+$ npm install --save react-bootstrap
 ```
 
 **babel-core**: core library
 
 ```bash
-$ npm install babel-core --save-dev
+$ npm --save-dev install babel-core 
 ```
 
 **babel-loader**: 
 
 ```bash
-$ npm install babel-loader --save-dev
+$ npm install --save-dev babel-loader
 ```
 
 **babel-preset-es2015**: transpile es6 into Javascript
 
 ```bash
-$ npm install babel-preset-es2015 --save-dev
+$ npm install --save-dev  babel-preset-es2015 
 ```
 
 **babel-preset-react**: transpiles react code and jsx insto javascript
 
 ```bash
-$ npm install babel-preset-react --save-dev
+$ npm install --save-dev babel-preset-react 
 ```
 
 **webpack & webpack-dev-server**
 
 ```bash
-$ npm install webpack webpack-dev-server --save-dev
+$ npm install --save-dev webpack webpack-dev-server 
 ```
 
 **node-sass & sass-load**: tranform sass to css
 
 ```bash
-$ npm install node-sass sass-loader --save-dev
+$ npm install --save-dev node-sass sass-loader 
 ```
 **jquery**
 ```bash
-$ npm install jquery --save
+$ npm install --save jquery
 ```
 
 
