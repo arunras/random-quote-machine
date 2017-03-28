@@ -39,7 +39,7 @@ $ npm install --save react-bootstrap
 **babel-core**: core library
 
 ```bash
-$ npm --save-dev install babel-core 
+$ npm install --save-dev babel-core 
 ```
 
 **babel-loader**: 
