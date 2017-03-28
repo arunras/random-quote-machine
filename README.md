@@ -71,7 +71,6 @@ $ npm install jquery --save
 ```
 
 
-## webpack.config.js
-
+## App Screenshot 
 ![App](https://github.com/arunras/random-quote-machine/raw/master/asset/screenshot.png "App")
 
