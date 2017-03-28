@@ -72,3 +72,6 @@ $ npm install jquery --save
 
 
 ## webpack.config.js
+
+[App]: https://github.com/arunras/random-quote-machine/raw/master/asset/screenshot.png "Quote of the Day!"
+
