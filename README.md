@@ -3,7 +3,7 @@
 > It's built base on ReactJS and use Query the API to get quotes.
 >
 > [**Demo**](https://arunras.github.io/random-quote-machine/)
-## Application Stack
+## Software Stack
 - **React**: to compose simple powerful UIs.
 - **ES6**: to write real javascrip classs. The next version of JavaScript.
 - **JSX**: to place HTML in JavaScript without concatenating strings.
